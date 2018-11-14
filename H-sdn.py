@@ -20,30 +20,16 @@ D = '\033[1;32m'
 ##################
 os.system("clear")
 print(C)
-print("                   |=============================|")
-print(D)
-print("                         |=================|")
-print(W)
-print("                             |=========|")
-print(M)
-print("                               |=====|")
-print(Br)
-print("                                |===|")
-print("\r")
-print(C)
-print("                        By ==>  Ali Elhafeth")
-
-print(D)
-
-print("                     & & & & & & & & & & & & & & & &")
-
-print(W)
-
-print(" -----[C] 2018------|| BlackHaT Sudan || - Member Of SeCretSDN||")
-print
-print
-print
-print
+print("++++++++++++++++++++++++++++++++++++++")
+print(" Name        :      HawkSDN")
+print(" INFO        :     Facebook Bruter")
+print(" Code        :      Python")
+print(" Coder       :    Ali Elhafeth")
+print(" Team        :   BlackHaT Sudan")
+print(" Date        :     5/10/2018")
+print(" FB          :   facebook.com/zlalmoer")
+print(" Github      :    github.com/SeCretSDN")
+print("++++++++++++++++++++++++++++++++++++++++")
 print("[*] This Script Hacked Facebook,Enter Email,And Enter Full path")
 print("[*] We Using Brute Forse")
 print("[*] Dont Use it To Muslims")
@@ -100,7 +86,6 @@ def search():
 		password = password.replace("\n","")
 		brute(password)
 os.system("clear")
-os.system("toilet -f mono12 -F border HwakSDN")
 
 #welcome 
 def welcome():
@@ -114,11 +99,11 @@ def welcome():
 """
 	total = open(passwordlist,"r")
 	total = total.readlines()
-	print wel 
-	print " [*] Account to crack : {}".format(email)
-	print " [*] Loaded :" , len(total), "passwords"
-	print " [*] Cracking, please wait ...\n\n"
-
+	print(wel) 
+	print(" [*] Account to crack : {}").format(email)
+	print " [*] Loaded :") , len(total), "passwords"
+	print " [*] Cracking, please wait ...\n\n")
+ 
 
 if __name__ == '__main__':
 	main()

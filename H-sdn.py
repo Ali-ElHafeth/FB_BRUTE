@@ -6,6 +6,7 @@ import mechanize
 import cookielib
 import random
 import os
+import  time
 ##############
 W = '\033[1;34;40m'
 Br = '\033[1;32;40m'
@@ -18,6 +19,8 @@ M = '\033[1;34m'
 C = '\033[1;31m'
 D = '\033[1;32m'
 ##################
+print("Loading Autor info + Script")
+time.sleep(10)
 os.system("clear")
 print(C)
 print("++++++++++++++++++++++++++++++++++++++")
@@ -101,8 +104,8 @@ def welcome():
 	total = total.readlines()
 	print(wel) 
 	print(" [*] Account to crack : {}").format(email)
-	print " [*] Loaded :") , len(total), "passwords"
-	print " [*] Cracking, please wait ...\n\n")
+	print(" [*] Loaded :") , len(total), "passwords"
+	print(" [*] Cracking, please wait ...\n\n")
  
 
 if __name__ == '__main__':

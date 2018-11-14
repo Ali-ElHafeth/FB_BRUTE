@@ -36,7 +36,7 @@ print("++++++++++++++++++++++++++++++++++++++++")
 print("[*] This Script Hacked Facebook,Enter Email,And Enter Full path")
 print("[*] We Using Brute Forse")
 print("[*] Dont Use it To Muslims")
-print(C)
+print(M)
 print("————————————————————————")
 
 email = str(raw_input("Enter Username (or) Email (or) Phone Number : "))

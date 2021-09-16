@@ -35,7 +35,7 @@ print(" Github      :    github.com/SeCretSDN")
 print("++++++++++++++++++++++++++++++++++++++++")
 print("[*] This Script Hacked Facebook,Enter Email,And Enter Full path")
 print("[*] We Using Brute Forse")
-print("[*] Dont Use it To Muslims")
+print("[*] Dont Use it for Muslims")
 print(M)
 print("————————————————————————")
 
